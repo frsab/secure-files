@@ -1,0 +1,28 @@
+{
+  "name": "secure-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frsab/secure-files.git"
+  },
+  "keywords": [
+    "crypto",
+    "secure",
+    "files",
+    "folders",
+    "data",
+    "windows",
+    "linux"
+  ],
+  "author": "Saber FRAJ <saber.fraj@yahoo.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frsab/secure-files/issues"
+  },
+  "homepage": "https://github.com/frsab/secure-files#readme"
+}
